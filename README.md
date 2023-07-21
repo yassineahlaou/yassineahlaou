@@ -21,12 +21,11 @@
 </div>
 
 
-I'm Yassine Ahlaou , Software Engineer Student (Fullstack Web Developer).
+I'm Yassine Ahlaou , Software Engineer.
 
 - 🔭 I’m currently working on production of advanced web applications. 
 - 🌱 I'm on track for learning more about how to make web applications faster and easy to use in the client side, including securing their creditionals
-- 🎓 I am so close to graduate from ENSA SAFI as a Software Enginner.
-- ✍️  In my free time, i eat & sleep :)
+- 🎓 I just graduated as a Computer Science Engineer
 - 💬  Feel free to reach out to me for discussions on the aforementioned topics!
 - ✉️  You can email me at yassineahlaou@gmail.com. I'll try to respond as soon as possible!
 
